@@ -7,10 +7,15 @@
  Nesse contexto, uma gravadora enfrenta o emocionante desafio de lançar um novo artista no cenário musical global e busca, através de dados do Spotify, traçar o caminho para o sucesso validando as seguintes hipóteses:
 
  As músicas com maior BPM (Batidas Por Minuto) têm mais sucesso em termos de quantidade de streams no Spotify.
+
  As músicas mais populares no ranking do Spotify também têm um comportamento semelhante em outras plataformas como Deezer.
+
  A presença de uma música em um maior número de playlists está relacionada a um maior número de streams.
+
  Os artistas com um maior número de músicas no Spotify têm mais streams totais.
+
  As características da música influenciam no sucesso em termos de quantidade de streams no Spotify.
+
  Qual foi o objetivo?
  Analisar as músicas mais ouvidas em 2023 na plataforma Spotify e seu comportamento em outras plataformas como Deezer e Apple Music para validar as seguintes hipóteses:
 
@@ -38,7 +43,9 @@
  O desenvolvimento do projeto foi realizado através das seguintes fases:
 
  Processar e preparar os dados com consultas em SQL.
+
  Fazer uma análise exploratória (AED).
+ 
  Aplicar técnicas de análise como:
  Segmentação de categorias.
  Correlação de variáveis.
