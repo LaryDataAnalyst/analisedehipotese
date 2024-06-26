@@ -51,3 +51,14 @@
  - Consultas SQL no Google Cloud. Disponíveis em: [GoogleCloud BigQuery](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1shipoteses-projeto2!2sprojeto2&pli=1&project=projeto2hipoteses-420119&supportedpurview=project)
 
 
+![alt text](<imagens/Hipótese 1.JPG>)
+
+![alt text](<imagens/Hipótese 1.JPG>)
+
+![alt text](<imagens/HIpótese 3.JPG>)
+
+![alt text](<imagens/Hipótese 4.JPG>)
+
+![alt text](<imagens/HIpótese 5.JPG>)
+
+![alt text](<imagens/Matriz de Correlação.JPG>)
