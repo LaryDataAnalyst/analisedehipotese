@@ -50,6 +50,7 @@
  - Arquivos adicionais:
  - Consultas SQL no Google Cloud. Disponíveis em: [GoogleCloud BigQuery](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1shipoteses-projeto2!2sprojeto2&pli=1&project=projeto2hipoteses-420119&supportedpurview=project)
 
+![hipoteses-idade](https://github.com/LaryDataExpert/analisedehipotese/assets/169815637/7f5ac38b-2e69-4778-a905-6da657893f88)
 
 
 
