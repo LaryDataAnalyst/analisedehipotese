@@ -54,4 +54,4 @@
 
 
 
-[def]: download/hipoteses-idade.jpg
+[def]: download/hipoteses-idade.PNG
