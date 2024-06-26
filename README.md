@@ -18,7 +18,7 @@
  As características da música influenciam no sucesso em termos de quantidade de streams no Spotify.
 
  **Quais insumos/ferramentas usamos para a análise?**
- 
+
  *Insumos*
 
  - Conjunto de dados com as informações das músicas mais ouvidas durante 2023 no Spotify.
@@ -50,4 +50,6 @@
  - Arquivos adicionais:
  - Consultas SQL no Google Cloud. Disponíveis em: [GoogleCloud BigQuery](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1shipoteses-projeto2!2sprojeto2&pli=1&project=projeto2hipoteses-420119&supportedpurview=project)
 
+
+ C:\Users\Arthur Douglas\Downloads\hipoteses-idade
  
