@@ -18,11 +18,12 @@
  As características da música influenciam no sucesso em termos de quantidade de streams no Spotify.
 
  **Quais insumos/ferramentas usamos para a análise?**
+ 
  *Insumos*
 
- Conjunto de dados com as informações das músicas mais ouvidas durante 2023 no Spotify.
- Conjunto de dados com informações do comportamento dessas músicas em outras plataformas.
- Conjunto de dados com as informações técnicas de cada uma das músicas.
+ - Conjunto de dados com as informações das músicas mais ouvidas durante 2023 no Spotify.
+ - Conjunto de dados com informações do comportamento dessas músicas em outras plataformas.
+ - Conjunto de dados com as informações técnicas de cada uma das músicas.
 
  **- Ferramentas:**
 
