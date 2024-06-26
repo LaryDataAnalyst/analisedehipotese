@@ -55,7 +55,4 @@
 
 
 
-![Hipóteses de Idade][def]
 
-
-[def]: file:///C:/Users/Arthur%20Douglas/Downloads/hipoteses-idade.png
