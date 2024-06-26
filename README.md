@@ -51,5 +51,5 @@
  - Consultas SQL no Google Cloud. Disponíveis em: [GoogleCloud BigQuery](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1shipoteses-projeto2!2sprojeto2&pli=1&project=projeto2hipoteses-420119&supportedpurview=project)
 
 
- C:\Users\Arthur Douglas\Downloads\hipoteses-idade
+ (C:\Users\Arthur Douglas\Downloads\hipoteses-idade)
  
